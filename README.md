@@ -68,9 +68,9 @@ ecoruta/
    git switch -c practica/flexbox-grid
    ```
 
-3. **Abre el proyecto** en VS Code y ejecútalo con la extensión **Live Server**: clic derecho sobre `flexbox.html` → *Open with Live Server*. También puedes abrir los archivos HTML directamente en el navegador.
+3. **Abre el proyecto** en VS Code y levanta un servidor web.
 
-4. Coloca `flexbox.html` y `grid.html` en **dos ventanas lado a lado**: las compararás durante toda la práctica.
+4. Abre `flexbox.html` y `grid.html` en **dos ventanas diferentes** para comparar durante toda la práctica.
 
 > 💡 Las imágenes se cargan desde `picsum.photos`. Sin conexión a Internet, cada imagen se muestra como un bloque verde claro y el ejercicio funciona igual.
 
